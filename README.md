@@ -14,7 +14,6 @@ I'm currently working as a Staff Devops Engineer at Airthings<br>I'm looking to 
 
 ![GitHub stats](./profile/stats.svg)<br/>
 ![](https://streak-stats.demolab.com/?user=BipinXavier&theme=dark&hide_border=false)<br/>
-![Top languages](./profile/top-langs.svg)
 
 ## 🏆 GitHub Trophies
 
