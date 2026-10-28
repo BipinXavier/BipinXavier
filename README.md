@@ -12,9 +12,9 @@ I'm currently working as a Staff Devops Engineer at Airthings<br>I'm looking to 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=BipinXavier&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BipinXavier&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BipinXavier&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub stats](./profile/stats.svg)<br/>
+![](https://streak-stats.demolab.com/?user=BipinXavier&theme=dark&hide_border=false)<br/>
+![Top languages](./profile/top-langs.svg)
 
 ## 🏆 GitHub Trophies
 
